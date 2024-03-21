@@ -1,4 +1,3 @@
-// src/pedidos/controllers/pedido.controller.ts
 import { Controller, Get, Post, Put, Delete, Param, Body } from '@nestjs/common';
 import { PedidoService } from '../services/pedido.service';
 import { PedidoDTO } from '../dto/pedido.dto';
