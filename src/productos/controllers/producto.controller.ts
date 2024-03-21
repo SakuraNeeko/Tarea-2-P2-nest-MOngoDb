@@ -1,4 +1,3 @@
-// src/productos/controllers/producto.controller.ts
 import { Controller, Get, Post, Put, Delete, Param, Body } from '@nestjs/common';
 import { ProductoService } from '../services/producto.service';
 import { ProductoDTO } from '../dto/producto.dto';
