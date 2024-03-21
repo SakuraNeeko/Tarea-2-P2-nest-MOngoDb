@@ -1,4 +1,3 @@
-// src/pedidos/dto/pedido.dto.ts
 export class PedidoDTO {
     readonly fecha: Date;
     readonly total: number;
