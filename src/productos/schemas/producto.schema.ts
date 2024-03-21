@@ -1,4 +1,3 @@
-// src/productos/schemas/producto.schema.ts
 import { Schema } from 'mongoose';
 
 export const ProductoSchema = new Schema({
