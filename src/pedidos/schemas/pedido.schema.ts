@@ -1,4 +1,3 @@
-// src/pedidos/schemas/pedido.schema.ts
 import { Schema } from 'mongoose';
 
 export const PedidoSchema = new Schema({
